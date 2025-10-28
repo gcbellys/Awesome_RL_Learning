@@ -55,4 +55,3 @@
 | **Sutton & Barto** | **Chapter 4** (DP), **Chapter 5** (MC), **Chapter 6** (TD Learning) |
 | **Zhao《数学基础》** | **Chapter 4** (DP), **Chapter 5** (MC), **Chapter 7** (TD Methods) |
 | **David Silver 课程** | **Lecture 3** (DP), **Lecture 4** (MC/TD Prediction), **Lecture 5** (MC/TD Control) |
-| **代码实践参考** | 对应仓库中的 `2-Policy_Iteration`, `3-Value_Iteration`, `4-MC`, `5-TD` 等文件夹 |
